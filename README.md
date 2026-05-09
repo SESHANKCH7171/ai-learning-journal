@@ -26,7 +26,7 @@
 - [x] Building and Evaluating Advanced RAG (DL.AI)
 - [x] Vector Databases: from Embeddings to Applications (DL.AI)
 - [x] LangChain for LLM Application Development (DL.AI)
-- [x] **PROJECT 1 DEPLOYED:** [production-rag-system](https://github.com/SESHANKCH7171/production-rag-system) — Hybrid BM25+Vector retrieval, cross-encoder reranking, DeepEval CI pipeline
+- [ ] **PROJECT 1:** [production-rag-system](https://github.com/SESHANKCH7171/production-rag-system) — Hybrid BM25+Vector retrieval, cross-encoder reranking, DeepEval CI pipeline
 - [x] **PROJECT 2 DEPLOYED:** [FOXO_LONGEVITY_HEALTH_ASSISTANT](https://github.com/SESHANKCH7171/FOXO_LONGEVITY_HEALTH_ASSISTANT) — RAG-powered health assistant
 
 ### Phase 2 — Multi-Agent Systems (Month 2-3)
@@ -36,7 +36,7 @@
 - [x] Agentic AI with LangChain and LangGraph (Coursera)
 - [x] **PROJECT 3 DEPLOYED:** [CUSTOMER-SUPPORT-RAG-WITH-CREWAI-GEMINI](https://github.com/SESHANKCH7171/CUSTOMER-SUPPORT-RAG-WITH-CREWAI-GEMINI) — Multi-agent RAG with CrewAI + Gemini
 - [x] **PROJECT 4 DEPLOYED:** [Multi-Agent-Content-Engine](https://github.com/SESHANKCH7171/Multi-Agent-Content-Engine) — Multi-agent content pipeline
-- [x] **PROJECT 5 DEPLOYED:** [AEROSPACE-COMPLAINCE-AUTOMATION-B2B](https://github.com/SESHANKCH7171/AEROSPACE-COMPLAINCE-AUTOMATION-B2B) — B2B agentic compliance pipeline
+- [ ] **PROJECT 5:** [AEROSPACE-COMPLAINCE-AUTOMATION-B2B](https://github.com/SESHANKCH7171/AEROSPACE-COMPLAINCE-AUTOMATION-B2B) — B2B agentic compliance pipeline
 - [x] **PROJECT 6 DEPLOYED:** [universal-llm-terminal-bridge](https://github.com/SESHANKCH7171/universal-llm-terminal-bridge) — Universal LLM CLI tool
 
 ### Phase 3 — LLMOps + Fine-Tuning (Month 3-4)
