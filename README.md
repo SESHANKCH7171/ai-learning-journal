@@ -70,5 +70,51 @@
 | May 2026 | Week 7 | Stock Analysis with LLM hallucination detection study |
 
 ---
-
+## 📊 Phase Details & Resource Checklist
+ 
+### Phase 1 — Frontend Foundations
+- [ ] [Next.js Learn](https://nextjs.org/learn) — React, routing, components, server components, App Router
+- [ ] [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [ ] [Tailwind CSS Docs](https://tailwindcss.com/docs)
+- [ ] [shadcn/ui Docs](https://ui.shadcn.com/docs)
+### Phase 2 — Backend for AI Products
+- [ ] [FastAPI Official Docs](https://fastapi.tiangolo.com/)
+### Phase 3 — Databases
+- [ ] [Supabase Docs](https://supabase.com/docs) — PostgreSQL, Auth, Storage, Edge Functions, SQL
+### Phase 4 — Deep Learning AI Courses
+- [ ] Building Systems with the ChatGPT API (2 courses)
+- [ ] Function Calling & Tool Use
+- [ ] Open Source Models with Hugging Face
+- [ ] Evaluating AI Systems
+- [ ] Agentic AI
+- [ ] Multi-Agent Systems
+- [ ] [LangChain Academy](https://academy.langchain.com/) — Introduction → RAG → Agents → LangGraph
+### Phase 5 — RAG
+- [ ] LangChain RAG (deep dive)
+### Phase 6 — Vector Databases
+- [ ] [ChromaDB Docs](https://docs.trychroma.com/) or [Pinecone Docs](https://docs.pinecone.io/)
+- [ ] Supabase Vector / [pgvector](https://github.com/pgvector/pgvector)
+### Phase 7 — Product Design
+- [ ] [Figma Learn](https://help.figma.com/hc/en-us/categories/360002051613-Figma-Learn)
+- [ ] Refactoring UI (book)
+### Phase 8 — Product Thinking
+- [ ] [Lenny's Newsletter](https://www.lennysnewsletter.com/) — 2 articles/day
+### Phase 9 — Sales
+- [ ] [HubSpot Academy](https://academy.hubspot.com/) (SaaS sales tracks)
+- [ ] Gong Labs content
+- [ ] Complete 30 discovery calls
+### Phase 10 — Playwright Automations
+- [ ] [Playwright Official Docs](https://playwright.dev/docs/intro)
+- [ ] Build 5 real automations
+### Phase 11 — DevOps
+- [ ] [Docker Docs](https://docs.docker.com/)
+- [ ] [GitHub Actions Docs](https://docs.github.com/en/actions)
+- [ ] [Vercel Docs](https://vercel.com/docs)
+### Phase 12 — Testing
+- [ ] Playwright (testing-focused)
+- [ ] [Vitest Docs](https://vitest.dev/guide/)
+### Phase 13 — System Design
+- [ ] [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [ ] [ByteByteGo](https://bytebytego.com/)
+---
 > *"Every expert was once a beginner who refused to quit."*
